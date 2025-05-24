@@ -1,0 +1,37 @@
+{
+  "name": "xdrpc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A customizable Discord selfbot for managing Rich Presence (RPC) status with ease.",
+  "main": "src/client/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/client/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XanderID/XDRpc.git"
+  },
+  "keywords": [
+    "discord-selfbot",
+    "discord-rpc",
+    "discord-custom-rpc",
+    "discord-status",
+    "discord-presence"
+  ],
+  "author": "XanderID",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/XanderID/XDRpc/issues"
+  },
+  "homepage": "https://github.com/XanderID/XDRpc#readme",
+  "engines": {
+    "node": ">=20.18"
+  },
+  "dependencies": {
+    "module-monitor": "^1.0.5",
+    "discord.js-selfbot-v13": "^3.6.1",
+    "chalk": "^5.4.1",
+    "express": "^5.1.0"
+  }
+}
