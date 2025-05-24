@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XanderID/XDRpc.git"
+    "url": "git+https://github.com/XanderID/X-DRPC.git"
   },
   "keywords": [
     "discord-selfbot",
@@ -22,7 +22,7 @@
   "author": "XanderID",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/XanderID/X-RPC/issues"
+    "url": "https://github.com/XanderID/X-DRPC/issues"
   },
   "homepage": "https://github.com/XanderID/X-DRPC#readme",
   "engines": {
