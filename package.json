@@ -1,5 +1,5 @@
 {
-  "name": "xdrpc",
+  "name": "x-drpc",
   "version": "1.0.0",
   "type": "module",
   "description": "A customizable Discord selfbot for managing Rich Presence (RPC) status with ease.",
@@ -22,9 +22,9 @@
   "author": "XanderID",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/XanderID/XDRpc/issues"
+    "url": "https://github.com/XanderID/X-RPC/issues"
   },
-  "homepage": "https://github.com/XanderID/XDRpc#readme",
+  "homepage": "https://github.com/XanderID/X-DRPC#readme",
   "engines": {
     "node": ">=20.18"
   },
